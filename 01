@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Briefwechsel zwischen einem Vater und seinem Sohn auf der Akademie</title>
+        <title type="sub">Allen rechtschaffenen Vätern, und ihren studierenden Söhnen gewidmet</title>
+        <author>
+          <persName ref="http://d-nb.info/gnd/118784013">
+            <surname>Miller</surname>
+            <forename>Johann Martin</forename>
+          </persName>
+        </author>
+        <respStmt xml:id="textsource-1" corresp="#availability-textsource-1">
+          <persName>
+            <surname>Jena</surname>
+            <forename>Thüringer Universitäts- und Landesbibliothek</forename>
+          </persName>
+          <resp>
+            <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+            <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+            <ref target="https://kxp.k10plus.de/DB=2.1/DB=2.1/PPN?PPN=211525588"/>
+            <date type="importDTA">2026-03-14T10:33:40Z</date>
+          </resp>
+        </respStmt>
+        <respStmt>
+          <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+            <ref target="https://www.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+      <extent>
+        <measure type="images"/>
+        <measure type="tokens"/>
+        <measure type="types"/>
+        <measure type="characters"/>
+      </extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2026-03-14T10:33:40Z</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="http://creativecommons.org/publicdomain/zero/1.0/">
+            <p>Dieses Werk ist gemeinfrei.</p>
+          </licence>
+          <p>CC BY-NC-SA 4.0</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M">von dem Herausgeber des Briefwechsels dreyer akademischer Freunde</bibl>
+        <biblFull>
+          <titleStmt>
+          <title level="m" type="main">Briefwechsel zwischen einem Vater und seinem Sohn auf der Akademie</title>
+          <title level="m" type="sub">Allen rechtschaffenen Vätern, und ihren studierenden Söhnen gewidmet</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/118784013">
+                <surname>Miller</surname>
+                <forename>Johann Martin</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher><name>Wohler</name></publisher>
+              <pubPlace>Ulm</pubPlace>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+            Bogensignaturen: keine Angabe;
+            Druckfehler: keine Angabe;
+            fremdsprachliches Material: keine Angabe;
+            Geminations-/Abkürzungsstriche: keine Angabe;
+            Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): keine Angabe;
+            I/J in Fraktur: keine Angabe;
+            i/j in Fraktur: keine Angabe;
+            Kolumnentitel: keine Angabe;
+            Kustoden: keine Angabe;
+            langes s (ſ): keine Angabe;
+            Normalisierungen: keine Angabe;
+            rundes r (&amp;#xa75b;): keine Angabe;
+            Seitenumbrüche markiert: keine Angabe;
+            Silbentrennung: keine Angabe;
+            u/v bzw. U/V: keine Angabe;
+            Vokale mit übergest. e: keine Angabe;
+            Vollständigkeit: keine Angabe;
+            Zeichensetzung: keine Angabe;
+            Zeilenumbrüche markiert: keine Angabe;
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">(Früh-)Neuhochdeutsch</language>
+      </langUsage>
+      <textClass>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+<text>
+<body>
+<p>Hier kommt Ihr Text</p>
+</body>
+</text>
+</TEI>
