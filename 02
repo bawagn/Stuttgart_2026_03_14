@@ -1,1 +1,151 @@
-XML
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ost-Indische Reise-Beschreibung Oder Diarium, Was bey der Reise des Churfürstl. Sächß. Raths und Berg-Commissarii, D. Benjamin Olitzschens im Jahr 1680. Von Dreßden aus biß in Asiam auf Sumatra Denckwürdiges vorgegangen</title>
+        <title type="sub">Elias Hessens Ost-Indianische Reise Beschreibung</title>
+        <author>
+          <persName ref="http://d-nb.info/gnd/128660260">
+            <surname>Hesse</surname>
+            <forename>Elias</forename>
+          </persName>
+        </author>
+        <respStmt>
+          <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+            <ref target="https://www.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+      <extent>
+        <measure type="images"/>
+        <measure type="tokens"/>
+        <measure type="types"/>
+        <measure type="characters"/>
+      </extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2026-05-19T19:14:42Z</date>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+            <p> CC BY-NC-SA 4.0</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M"/>
+        <biblFull>
+          <titleStmt>
+          <title level="m" type="main">Ost-Indische Reise-Beschreibung Oder Diarium, Was bey der Reise des Churfürstl. Sächß. Raths und Berg-Commissarii, D. Benjamin Olitzschens im Jahr 1680. Von Dreßden aus biß in Asiam auf Sumatra Denckwürdiges vorgegangen</title>
+          <title level="m" type="sub">Elias Hessens Ost-Indianische Reise Beschreibung</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/128660260">
+                <surname>Hesse</surname>
+                <forename>Elias</forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="2">Zum andern mahl gedruckt, und mit sonderbahren Fleiß übersehen, in vielen verbessert und vermehret</edition>
+          </editionStmt>
+          <extent>
+            <measure type="pages">[8] Bl., 396 [i.e. 394] S., [7] Bl., [1] gef. Bl.</measure>
+          </extent>
+          <publicationStmt>
+            <publisher><name>Born</name></publisher>
+              <pubPlace>Leipzig</pubPlace>
+            <date type="publication">1734</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc xml:id="imagesource-1" corresp="#availability-imagesource-1">
+          <msIdentifier>
+            <repository>Thüringer Universitäts- und Landesbibliothek Jena</repository>
+            <idno>
+              <idno type="shelfmark">8 M 13823</idno>
+              <idno type="URLCatalogue">https://kxp.k10plus.de/DB=2.1/DB=2.1/PPN?PPN=1010938207</idno>
+              <idno type="URLImages">https://collections.thulb.uni-jena.de/rsc/viewer/HisBest_derivate_00018129/VD18_32727154X_0017.tif</idno>
+              <idno type="URN">urn:nbn:de:urmel-a6322c7e-b39c-47db-be6f-8e1829337965-00018129-0172</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Fraktur</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+            Bogensignaturen: keine Angabe;
+            Druckfehler: keine Angabe;
+            fremdsprachliches Material: keine Angabe;
+            Geminations-/Abkürzungsstriche: keine Angabe;
+            Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): keine Angabe;
+            i/j in Fraktur: keine Angabe;
+            I/J in Fraktur: keine Angabe;
+            Kolumnentitel: keine Angabe;
+            Kustoden: keine Angabe;
+            langes s (ſ): keine Angabe;
+            Normalisierungen: keine Angabe;
+            rundes r (&amp;#xa75b;): keine Angabe;
+            Seitenumbrüche markiert: keine Angabe;
+            Silbentrennung: keine Angabe;
+            u/v bzw. U/V: keine Angabe;
+            Vokale mit übergest. e: keine Angabe;
+            Vollständigkeit: keine Angabe;
+            Zeichensetzung: keine Angabe;
+            Zeilenumbrüche markiert: keine Angabe;
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">(Früh-)Neuhochdeutsch</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Gebrauchsliteratur</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+<text>
+<body>
+<p>
+<lb/>Ost-Indischer
+<lb/>Reise-Beschreibung
+<lb/>Erster Theil.
+<lb/>Abreise aus Sachsen in Holland.
+<lb/>Der Stadt <placeName ref="https://d-nb.info/gnd/4001783-7">Amsterdam</placeName>kurtze Be=
+<lb/>schreibung / und der Ost=Indischen
+<lb/>Compagnie grosse
+<lb/>Macht. 1680. Jul.
+<lb/>Eben / da die schädliche Pest
+<lb/>mein liebes Vaterland / das Chur=
+<lb/>fürstenthumb <placeName ref="https://d-nb.info/gnd/4051176-5">Sachsen</placeName> angefallen,
+<lb/>resolvirte<note type="editorial"> lat.), auflösen, zerteilen; sich entschließen; obrigkeitlich beschließen (erkennen), s. Brockhaus' Kleines Konversations-Lexikon, fünfte Auflage, Band 2. Leipzig 1911., S. 519.</note> ich mich / frembde Länder
+<lb/>zu besuchen; erlangte auch zu mei=
+<lb/>nem Vorhaben gar bald eine gewünschte Ge=
+<lb/>legenheit / indem mein alter Patron / Herr
+<lb/>D. Cunrad, bey welchem ich fünff Jahr lang
+<lb/>als Schreiber in Diensten gewesen / mich an
+<lb/>den Churfürstl. Sächß. gewesenen Rath und
+<lb/>Berg=Commissarium, Tit. Hn. D. Benja=
+<lb/>min <persName ref="https://d-nb.info/gnd/12866083X">Olitzschen</persName> (welcher sich in der Holländ=
+A Ost=</p>
+</body>
+</text>
+</TEI>
