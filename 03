@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Sagen des Rhöngebirges und des Grabfeldes</title>
+        <title type="sub">Der fränkische Sagenschatz</title>
+        <title type="volume" n="1">Theil 1</title>
+        <author>
+          <persName ref="http://d-nb.info/gnd/118654292">
+            <surname>Bechstein</surname>
+            <forename>Ludwig </forename>
+          </persName>
+        </author>
+        <respStmt>
+          <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+            <ref target="https://www.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+      <extent>
+        <measure type="images"/>
+        <measure type="tokens"/>
+        <measure type="types"/>
+        <measure type="characters"/>
+      </extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2026-05-20T07:02:19Z</date>
+        <availability xml:id="availability-imagesource-1" corresp="#imagesource-1">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+            <p> CC BY-NC-SA 4.0</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="MM"/>
+        <biblFull>
+          <titleStmt>
+          <title level="m" type="main">Die Sagen des Rhöngebirges und des Grabfeldes</title>
+          <title level="m" type="sub">Der fränkische Sagenschatz</title>
+          <title level="m" type="volume" n="1">Theil 1</title>
+            <author>
+              <persName ref="http://d-nb.info/gnd/118654292">
+                <surname>Bechstein</surname>
+                <forename>Ludwig </forename>
+              </persName>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <extent>
+            <measure type="pages">314, 6 S.</measure>
+          </extent>
+          <publicationStmt>
+            <publisher><name>Voigt &amp; Mocker</name></publisher>
+              <pubPlace>Würzburg</pubPlace>
+            <date type="publication">1842</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc xml:id="imagesource-1" corresp="#availability-imagesource-1">
+          <msIdentifier>
+            <repository>Thüringer Universitäts- und Landesbibliothek Jena</repository>
+            <idno>
+              <idno type="shelfmark">8 G.B.266 :1</idno>
+              <idno type="URLCatalogue">https://kxp.k10plus.de/DB=2.1/DB=2.1/PPN?PPN=767941586</idno>
+              <idno type="URLImages">https://collections.thulb.uni-jena.de/rsc/viewer/HisBest_derivate_00007029/STM_086_134287126_1_1842_0162.TIF?logicalDiv=log_79a457-8ca7-58f4-136431239</idno>
+              <idno type="URN">urn:nbn:de:urmel-2686e08f-18f7-4276-a00f-d6c8ddbde3f82-00007029-1627</idno>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p>Fraktur</p>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+            Bogensignaturen: keine Angabe;
+            Druckfehler: keine Angabe;
+            fremdsprachliches Material: keine Angabe;
+            Geminations-/Abkürzungsstriche: keine Angabe;
+            Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): keine Angabe;
+            i/j in Fraktur: keine Angabe;
+            I/J in Fraktur: keine Angabe;
+            Kolumnentitel: keine Angabe;
+            Kustoden: keine Angabe;
+            langes s (ſ): keine Angabe;
+            Normalisierungen: keine Angabe;
+            rundes r (&amp;#xa75b;): keine Angabe;
+            Seitenumbrüche markiert: keine Angabe;
+            Silbentrennung: keine Angabe;
+            u/v bzw. U/V: keine Angabe;
+            Vokale mit übergest. e: keine Angabe;
+            Vollständigkeit: keine Angabe;
+            Zeichensetzung: keine Angabe;
+            Zeilenumbrüche markiert: keine Angabe;
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">(Früh-)Neuhochdeutsch</language>
+      </langUsage>
+      <textClass>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+<text>
+<body>
+<p>- 152 -
+<lb/>23.
+<lb/>St. Kiliansberg.
+<lb/>Auf dem Kiliansberge bei <placeName ref=" http://d-nb.info/gnd/4053863-1">Schweinfurt</placeName>predigte der
+<lb/>heilige <persName ref="https://d-nb.info/gnd/11856207X">Kilian, Heiliger</persName>, und verbot die Heidengreuel, davon hat
+<lb/>der Berg noch heute den Namen. Viele Einwohner
+<lb/>wurden Christen, und diese waren es, welche das Bild
+<lb/>des Loll in das Mainbette versenkten. Als aber einige
+<lb/>Jahre später der fromme Glaubensapostel zu <placeName ref="http://d-nb.info/gnd/4067037-5">Würzburg</placeName>
+<lb/>seinen Martyrertod gefunden, fielen die meisten Bewohner
+<lb/>der Gegend wieder ab, ließen sich ein neues Götzenbild
+<lb/>des Loll aus Erz gießen, und stellten es an dem Orte
+<lb/>zur Verehrung auf, den man jetzt das kleine Löllein
+<lb/>nennt. Später jedoch ward auch dieses Bild vernichtet,
+<lb/>und auf dem Kiliansberg erhob sich ein Kirchlein, das
+<lb/>aber im Laufe der Jahrhunderte auch wieder hinweg-
+<lb/>geschwurnden ist.
+<lb/> - 
+<lb/>24.
+<lb/>Die Markgrafen von <placeName ref=" http://d-nb.info/gnd/4053863-1">Schweinfurt</placeName>.
+<lb/>Aus dem Dunkel der Geschichte treten die Namen
+<lb/>einiger Markgrafen, welche im Nordgau<note type="editorial">Nordgau, 1) sonst Bezirk, begriff die Oberpfalz, Ansbach, Baireuth u. ein Stück von Böhmen; davon 2) noch in neuerer Zeit ein Theil des Fürstenthums Neuburg; 3) so v.w. Nieder-Elsaß, s.u. Elsaß B)., s.
+Pierer's Universal-Lexikon, Band 12. Altenburg 1861, S. 86.</note> herrschten, als
+<lb/>Besitzer von <placeName ref=" http://d-nb.info/gnd/4053863-1">Schweinfurt</placeName>. Hezilo oder Heinrich, Sohn
+<lb/>des Markgrafen <persName ref="https://d-nb.info/gnd/13358464X">Berthold, Schweinfurt, Markgraf</persName>, hatte seine Residenz meist
+<lb/>zu <placeName ref=" http://d-nb.info/gnd/4053863-1">Schweinfurt</placeName>, während sein Vater in <placeName ref="http://d-nb.info/gnd/4004391-5"> Bamberg</placeName> Hof
+<lb/>hielt, und über weite Länder das Scepter seiner Macht
+<lb/>ausstreckte; ein zweiter Sohn desselben hieß Burkard.
+</p>
+</body>
+</text>
+</TEI>
